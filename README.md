@@ -34,7 +34,7 @@ Datas
 
 [PaddleX](https://github.com/PaddlePaddle/PaddleX)
 
-- Please download the trained model file from [here](https://ms.portal.azure.com/#view/Microsoft_Azure_Storage/ContainerMenuBlade/~/overview/storageAccountId/%2Fsubscriptions%2F75e2804f-801a-4a5e-9985-c3246b4e1a04%2FresourceGroups%2FTestFeature%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fweininggen2forcodectlto/path/gb18030/etag/%220x8DCF4B9E927882A%22/defaultEncryptionScope/%24account-encryption-key/denyEncryptionScopeOverride~/false/defaultId//publicAccessVal/None) and unzip the files to PXODModel folder.
+- You can download the trained model file from [here](https://ms.portal.azure.com/#view/Microsoft_Azure_Storage/ContainerMenuBlade/~/overview/storageAccountId/%2Fsubscriptions%2F75e2804f-801a-4a5e-9985-c3246b4e1a04%2FresourceGroups%2FTestFeature%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fweininggen2forcodectlto/path/gb18030/etag/%220x8DCF4B9E927882A%22/defaultEncryptionScope/%24account-encryption-key/denyEncryptionScopeOverride~/false/defaultId//publicAccessVal/None) and unzip the files to PXODModel folder.
     - Model: FasterRCNN-ResNeXt101-vd-FPN
     - The directory structure is as follows:
 ```

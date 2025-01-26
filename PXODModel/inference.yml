@@ -1,0 +1,107 @@
+mode: paddle
+draw_threshold: 0.5
+metric: COCO
+use_dynamic_shape: true
+Global:
+  model_name: FasterRCNN-ResNeXt101-vd-FPN
+arch: RCNN
+min_subgraph_size: 40
+Preprocess:
+- interp: 2
+  keep_ratio: true
+  target_size:
+  - 800
+  - 1333
+  type: Resize
+- is_scale: true
+  mean:
+  - 0.485
+  - 0.456
+  - 0.406
+  std:
+  - 0.229
+  - 0.224
+  - 0.225
+  type: NormalizeImage
+- type: Permute
+- stride: 32
+  type: PadStride
+label_list:
+- 000_rt
+- 001_U
+Hpi:
+  backend_configs:
+    paddle_infer:
+      trt_dynamic_shapes: &id001
+        im_shape:
+        - - 1
+          - 2
+        - - 1
+          - 2
+        - - 8
+          - 2
+        image:
+        - - 1
+          - 3
+          - 320
+          - 320
+        - - 1
+          - 3
+          - 640
+          - 640
+        - - 8
+          - 3
+          - 1280
+          - 1280
+        scale_factor:
+        - - 1
+          - 2
+        - - 1
+          - 2
+        - - 8
+          - 2
+      trt_dynamic_shape_input_data:
+        im_shape:
+        - - 320
+          - 320
+        - - 640
+          - 640
+        - - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+          - 1280
+        scale_factor:
+        - - 2
+          - 2
+        - - 1
+          - 1
+        - - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+          - 0.67
+    tensorrt:
+      dynamic_shapes: *id001
