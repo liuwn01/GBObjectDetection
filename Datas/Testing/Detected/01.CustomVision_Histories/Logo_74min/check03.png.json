@@ -1,0 +1,1358 @@
+[
+  {
+    "probability": 0.869358,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.34556705,
+      "top": 0.010752171,
+      "width": 0.032103032,
+      "height": 0.17919758
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.8632504,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.5426906,
+      "top": 0.421721,
+      "width": 0.027199984,
+      "height": 0.15454689
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.85103846,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.66906106,
+      "top": 0.41948777,
+      "width": 0.028893054,
+      "height": 0.16352087
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.051592574,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.9036375,
+      "top": 0.3005364,
+      "width": 0.019487262,
+      "height": 0.097495496
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.037634946,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.2120965,
+      "top": 0.5949394,
+      "width": 0.021121815,
+      "height": 0.097954154
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.03545762,
+    "tagId": "e3ee3cf1-e8f6-4cc5-8080-7e41e35eb061",
+    "tagName": "001_U",
+    "boundingBox": {
+      "left": 0.81213444,
+      "top": 0.45701438,
+      "width": 0.018529296,
+      "height": 0.0993197
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.029441042,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.9210953,
+      "top": 0.3050658,
+      "width": 0.017468989,
+      "height": 0.095048815
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.028716449,
+    "tagId": "e3ee3cf1-e8f6-4cc5-8080-7e41e35eb061",
+    "tagName": "001_U",
+    "boundingBox": {
+      "left": 0.40293434,
+      "top": 0.44575563,
+      "width": 0.024617314,
+      "height": 0.10585192
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.025908694,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.060640484,
+      "top": 0.37330952,
+      "width": 0.021550864,
+      "height": 0.1035583
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.023158712,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.26750934,
+      "top": 0.051665336,
+      "width": 0.021373302,
+      "height": 0.11695339
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.021767749,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.19061069,
+      "top": 0.60247874,
+      "width": 0.021677047,
+      "height": 0.096599996
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.02161949,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.81213444,
+      "top": 0.45701438,
+      "width": 0.018529296,
+      "height": 0.0993197
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.019277023,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.65867805,
+      "top": 0.36336866,
+      "width": 0.047325015,
+      "height": 0.26939198
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.015034808,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.17272241,
+      "top": 0.60630995,
+      "width": 0.01949644,
+      "height": 0.09362638
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.014581835,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.71288633,
+      "top": 0.4436038,
+      "width": 0.020576894,
+      "height": 0.114552975
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0139466,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.5290001,
+      "top": 0.35574883,
+      "width": 0.046880305,
+      "height": 0.28843397
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0139331715,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.921638,
+      "top": 0.3559511,
+      "width": 0.02081722,
+      "height": 0.10440904
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.013587331,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.26985925,
+      "top": 0.6110395,
+      "width": 0.020178854,
+      "height": 0.0879218
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.013128757,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.2108578,
+      "top": 0.5325607,
+      "width": 0.022833213,
+      "height": 0.10670388
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.01218521,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.22951843,
+      "top": 0.6037523,
+      "width": 0.021053866,
+      "height": 0.09533161
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.011948028,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.8837976,
+      "top": 0.29859775,
+      "width": 0.021843553,
+      "height": 0.102286756
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.011122302,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.42540258,
+      "top": 0.0,
+      "width": 0.019630492,
+      "height": 0.09285079
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.011049493,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.060970932,
+      "top": 0.0,
+      "width": 0.0178577,
+      "height": 0.080552
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.010853462,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.072127946,
+      "top": 0.38085854,
+      "width": 0.024125092,
+      "height": 0.0930399
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.010815752,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.72628915,
+      "top": 0.4483932,
+      "width": 0.024802566,
+      "height": 0.10265139
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.010809053,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.15406972,
+      "top": 0.612689,
+      "width": 0.019474596,
+      "height": 0.09220314
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.009700771,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.57709605,
+      "top": 0.61048037,
+      "width": 0.019526482,
+      "height": 0.09557623
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.009649297,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.30703923,
+      "top": 0.60314673,
+      "width": 0.02106139,
+      "height": 0.09696919
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.009611865,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.78798383,
+      "top": 0.29740238,
+      "width": 0.020597816,
+      "height": 0.09723306
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.009385094,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.288059,
+      "top": 0.60679746,
+      "width": 0.020156771,
+      "height": 0.09520781
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.009322388,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.3847341,
+      "top": 0.29847497,
+      "width": 0.020812571,
+      "height": 0.09884727
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.009282545,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.2965517,
+      "top": 0.0,
+      "width": 0.12106454,
+      "height": 0.56157345
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.009226546,
+    "tagId": "e3ee3cf1-e8f6-4cc5-8080-7e41e35eb061",
+    "tagName": "001_U",
+    "boundingBox": {
+      "left": 0.15206148,
+      "top": 0.3009313,
+      "width": 0.020847708,
+      "height": 0.097485006
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008951451,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.7500674,
+      "top": 0.53688496,
+      "width": 0.020790577,
+      "height": 0.08562535
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008939805,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.15403207,
+      "top": 0.5320229,
+      "width": 0.020345211,
+      "height": 0.09216517
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008724953,
+    "tagId": "e3ee3cf1-e8f6-4cc5-8080-7e41e35eb061",
+    "tagName": "001_U",
+    "boundingBox": {
+      "left": 0.72628915,
+      "top": 0.4483932,
+      "width": 0.024802566,
+      "height": 0.10265139
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008661928,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.17320777,
+      "top": 0.6870541,
+      "width": 0.017522022,
+      "height": 0.09317535
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008645473,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.17085296,
+      "top": 0.5278816,
+      "width": 0.021283522,
+      "height": 0.09890038
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008616338,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.3268136,
+      "top": 0.5356765,
+      "width": 0.0194121,
+      "height": 0.08738923
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008460612,
+    "tagId": "e3ee3cf1-e8f6-4cc5-8080-7e41e35eb061",
+    "tagName": "001_U",
+    "boundingBox": {
+      "left": 0.14954987,
+      "top": 0.38962132,
+      "width": 0.02338253,
+      "height": 0.103865534
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008123426,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.19051205,
+      "top": 0.5277812,
+      "width": 0.022778317,
+      "height": 0.10188341
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008099045,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.26542932,
+      "top": 0.0,
+      "width": 0.18317991,
+      "height": 0.3013582
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.008053109,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.72993994,
+      "top": 0.06654222,
+      "width": 0.019419014,
+      "height": 0.08854966
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.007945305,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.76789933,
+      "top": 0.5307064,
+      "width": 0.022294044,
+      "height": 0.09167594
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0077243177,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.5956378,
+      "top": 0.60963285,
+      "width": 0.019771636,
+      "height": 0.09638673
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.007692486,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.058757372,
+      "top": 0.27959555,
+      "width": 0.056018606,
+      "height": 0.29429156
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.007309058,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.72899973,
+      "top": 0.38291675,
+      "width": 0.021385252,
+      "height": 0.09349105
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.007228209,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.768547,
+      "top": 0.2960475,
+      "width": 0.020778716,
+      "height": 0.098363996
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.007148712,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.42338276,
+      "top": 0.29931545,
+      "width": 0.020231932,
+      "height": 0.09828675
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.007059033,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.17404129,
+      "top": 0.76131135,
+      "width": 0.018185422,
+      "height": 0.09562272
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0069634896,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.5969093,
+      "top": 0.14286539,
+      "width": 0.019690335,
+      "height": 0.09120962
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0069188876,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.3462254,
+      "top": 0.30153355,
+      "width": 0.02180487,
+      "height": 0.09544578
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006878873,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.61480993,
+      "top": 0.14289364,
+      "width": 0.020542264,
+      "height": 0.0922036
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006836878,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.1717205,
+      "top": 0.44233578,
+      "width": 0.020574838,
+      "height": 0.10369718
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006832603,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.61542165,
+      "top": 0.6120264,
+      "width": 0.01959759,
+      "height": 0.09654832
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006825286,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.19058196,
+      "top": 0.4533783,
+      "width": 0.022606805,
+      "height": 0.100209564
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006820333,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.80723894,
+      "top": 0.29401293,
+      "width": 0.020931423,
+      "height": 0.09938884
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0067899856,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.13420358,
+      "top": 0.5321751,
+      "width": 0.020616263,
+      "height": 0.095072925
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0067678476,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.40277073,
+      "top": 0.2998824,
+      "width": 0.020888299,
+      "height": 0.099267304
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0066140704,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.2055948,
+      "top": 0.0,
+      "width": 0.3019941,
+      "height": 0.49665385
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006523127,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.2680781,
+      "top": 0.5277419,
+      "width": 0.0207268,
+      "height": 0.09592271
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0065046567,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.51985353,
+      "top": 0.30273888,
+      "width": 0.020561755,
+      "height": 0.09916574
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006487301,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.36381587,
+      "top": 0.29936275,
+      "width": 0.021649301,
+      "height": 0.098735034
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0064305095,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.21089166,
+      "top": 0.45367953,
+      "width": 0.022380441,
+      "height": 0.0983161
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0063686683,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.80711085,
+      "top": 0.67179024,
+      "width": 0.019893765,
+      "height": 0.108357966
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0063501364,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.2878611,
+      "top": 0.45699945,
+      "width": 0.019885749,
+      "height": 0.08814636
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006264202,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.5760732,
+      "top": 0.139947,
+      "width": 0.01988101,
+      "height": 0.08926061
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0062545347,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.86490595,
+      "top": 0.296905,
+      "width": 0.021276772,
+      "height": 0.10394642
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0062534898,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.0757902,
+      "top": 0.52623504,
+      "width": 0.020772487,
+      "height": 0.096049786
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0062465076,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.7115884,
+      "top": 0.37556496,
+      "width": 0.020046592,
+      "height": 0.09319988
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006245034,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.11564771,
+      "top": 0.52974343,
+      "width": 0.020604305,
+      "height": 0.095457196
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0062111635,
+    "tagId": "e3ee3cf1-e8f6-4cc5-8080-7e41e35eb061",
+    "tagName": "001_U",
+    "boundingBox": {
+      "left": 0.17466122,
+      "top": 0.1973168,
+      "width": 0.054866254,
+      "height": 0.29837388
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.006177477,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.3252761,
+      "top": 0.6049521,
+      "width": 0.021096528,
+      "height": 0.09789342
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0061561344,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.3453522,
+      "top": 0.60573006,
+      "width": 0.020863771,
+      "height": 0.09802294
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0061177528,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.49873453,
+      "top": 0.2246887,
+      "width": 0.02144146,
+      "height": 0.09667863
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005933323,
+    "tagId": "e3ee3cf1-e8f6-4cc5-8080-7e41e35eb061",
+    "tagName": "001_U",
+    "boundingBox": {
+      "left": 0.17348251,
+      "top": 0.2224276,
+      "width": 0.019509137,
+      "height": 0.09211582
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0058095423,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.09556409,
+      "top": 0.5275065,
+      "width": 0.021017522,
+      "height": 0.0968827
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005790639,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.24933589,
+      "top": 0.61360455,
+      "width": 0.020788193,
+      "height": 0.08678955
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005766072,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.21134008,
+      "top": 0.0,
+      "width": 0.019294992,
+      "height": 0.08957194
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0057647005,
+    "tagId": "e3ee3cf1-e8f6-4cc5-8080-7e41e35eb061",
+    "tagName": "001_U",
+    "boundingBox": {
+      "left": 0.056093555,
+      "top": 0.68972045,
+      "width": 0.025219101,
+      "height": 0.096238375
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.00575644,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.057899393,
+      "top": 0.069530696,
+      "width": 0.020103626,
+      "height": 0.088956565
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0057433695,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.0765988,
+      "top": 0.0,
+      "width": 0.019193962,
+      "height": 0.08511772
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0057336916,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.060116798,
+      "top": 0.31416038,
+      "width": 0.018533051,
+      "height": 0.08477977
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.00570601,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.62161225,
+      "top": 0.036680818,
+      "width": 0.1220811,
+      "height": 0.9305694
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005660817,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.4802732,
+      "top": 0.2958417,
+      "width": 0.020375788,
+      "height": 0.1023874
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0056451624,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.4992531,
+      "top": 0.2954538,
+      "width": 0.020791173,
+      "height": 0.10011914
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0055827294,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.749521,
+      "top": 0.29784453,
+      "width": 0.020720541,
+      "height": 0.09821352
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005554188,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.2875837,
+      "top": 0.06571423,
+      "width": 0.020167679,
+      "height": 0.09876705
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005552062,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.5386433,
+      "top": 0.14058192,
+      "width": 0.01973772,
+      "height": 0.09076391
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0055433344,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.7680134,
+      "top": 0.063613065,
+      "width": 0.020568728,
+      "height": 0.095561616
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005533866,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.34640625,
+      "top": 0.5333193,
+      "width": 0.019511968,
+      "height": 0.08815533
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005502552,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.44094938,
+      "top": 0.0,
+      "width": 0.01896894,
+      "height": 0.09404647
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0054868762,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.9018669,
+      "top": 0.6020146,
+      "width": 0.021284282,
+      "height": 0.09344119
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0054327296,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.28826734,
+      "top": 0.3898477,
+      "width": 0.019536018,
+      "height": 0.082746655
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0054235584,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.32638958,
+      "top": 0.29844344,
+      "width": 0.022001654,
+      "height": 0.095294714
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.00540182,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.63327265,
+      "top": 0.60815024,
+      "width": 0.02049613,
+      "height": 0.0988608
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0053884713,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.73082733,
+      "top": 0.30198956,
+      "width": 0.020148039,
+      "height": 0.09480405
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0053405534,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.68999046,
+      "top": 0.35228968,
+      "width": 0.058203876,
+      "height": 0.29774547
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0053145774,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.7686928,
+      "top": 0.67807573,
+      "width": 0.020855486,
+      "height": 0.100369275
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0052991537,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.01922407,
+      "top": 0.30225247,
+      "width": 0.019510206,
+      "height": 0.08803016
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0051926407,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.5920253,
+      "top": 0.29263192,
+      "width": 0.18227673,
+      "height": 0.41200036
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005186942,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.7111187,
+      "top": 0.30336565,
+      "width": 0.019676924,
+      "height": 0.095068395
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.005167593,
+    "tagId": "e3ee3cf1-e8f6-4cc5-8080-7e41e35eb061",
+    "tagName": "001_U",
+    "boundingBox": {
+      "left": 0.9611051,
+      "top": 0.0,
+      "width": 0.020931065,
+      "height": 0.08385733
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0051518325,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.24888124,
+      "top": 0.53061056,
+      "width": 0.0206597,
+      "height": 0.09507418
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0051238853,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.6143426,
+      "top": 0.07577144,
+      "width": 0.019699812,
+      "height": 0.09106312
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0051227594,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.8256714,
+      "top": 0.29238284,
+      "width": 0.021065772,
+      "height": 0.10180083
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0050951513,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.0,
+      "top": 0.7848783,
+      "width": 0.06173616,
+      "height": 0.21512067
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0050793393,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.40304455,
+      "top": 0.22482343,
+      "width": 0.021256238,
+      "height": 0.09440656
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0050473395,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.46010077,
+      "top": 0.22629556,
+      "width": 0.021465331,
+      "height": 0.09615475
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0050408803,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.8071806,
+      "top": 0.0,
+      "width": 0.020228684,
+      "height": 0.06809786
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0050199074,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.5370933,
+      "top": 0.29681128,
+      "width": 0.019753993,
+      "height": 0.098805904
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0050050705,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.71064353,
+      "top": 0.07030757,
+      "width": 0.019454837,
+      "height": 0.08410242
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.0050005983,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.22880816,
+      "top": 0.53246135,
+      "width": 0.022157192,
+      "height": 0.100836754
+    },
+    "tagType": "Regular"
+  }
+]

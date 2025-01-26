@@ -1,0 +1,38 @@
+[
+  {
+    "probability": 0.61620355,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.19054283,
+      "top": 0.06240156,
+      "width": 0.035987094,
+      "height": 0.033665095
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.10350669,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.36308005,
+      "top": 0.26983103,
+      "width": 0.035894543,
+      "height": 0.034840077
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.30313113,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.28109238,
+      "top": 0.83492017,
+      "width": 0.027763605,
+      "height": 0.027382433
+    },
+    "tagType": "GeneralProduct"
+  }
+]

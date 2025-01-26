@@ -1,0 +1,254 @@
+[
+  {
+    "probability": 0.16296116,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.071561515,
+      "top": 0.06354878,
+      "width": 0.022726573,
+      "height": 0.10660764
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.11246005,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.09133048,
+      "top": 0.06297422,
+      "width": 0.021460213,
+      "height": 0.105751954
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.16791013,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.11535005,
+      "top": 0.059202615,
+      "width": 0.016588166,
+      "height": 0.10565466
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.26926023,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.13399588,
+      "top": 0.062168773,
+      "width": 0.016727045,
+      "height": 0.10008818
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.14036863,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.20188782,
+      "top": 0.05772856,
+      "width": 0.02684477,
+      "height": 0.10790911
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.3461072,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.2270466,
+      "top": 0.049037926,
+      "width": 0.020871177,
+      "height": 0.11623288
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.38472855,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.24654719,
+      "top": 0.04835184,
+      "width": 0.021957815,
+      "height": 0.11404763
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.1709361,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.31680197,
+      "top": 0.06293062,
+      "width": 0.02515626,
+      "height": 0.107505225
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.48495415,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.3470909,
+      "top": 0.04910038,
+      "width": 0.024628371,
+      "height": 0.11689347
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.16844603,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.37667748,
+      "top": 0.06847171,
+      "width": 0.028568953,
+      "height": 0.10776328
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.13187875,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.40682086,
+      "top": 0.07868978,
+      "width": 0.014519632,
+      "height": 0.094006754
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.1786605,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.46448785,
+      "top": 0.053656794,
+      "width": 0.023513287,
+      "height": 0.11099555
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.19012305,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.18580003,
+      "top": 0.28417414,
+      "width": 0.031103149,
+      "height": 0.123539984
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.11334592,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.06409002,
+      "top": 0.37217402,
+      "width": 0.018233992,
+      "height": 0.08743882
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.21270384,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.08348301,
+      "top": 0.3937559,
+      "width": 0.015121385,
+      "height": 0.07264924
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.10038668,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.11255064,
+      "top": 0.37691998,
+      "width": 0.031489022,
+      "height": 0.10707989
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.41385436,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.0951003,
+      "top": 0.44177476,
+      "width": 0.011437252,
+      "height": 0.07173321
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.13430947,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.15407415,
+      "top": 0.42293593,
+      "width": 0.025626376,
+      "height": 0.107504636
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.5393093,
+    "tagId": "426cd44d-69f0-45bb-a1aa-fb96781b71fc",
+    "tagName": "[Auto-Generated] Other Products",
+    "boundingBox": {
+      "left": 0.4525653,
+      "top": 0.4582166,
+      "width": 0.020221204,
+      "height": 0.09703624
+    },
+    "tagType": "GeneralProduct"
+  },
+  {
+    "probability": 0.18752149,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.55052423,
+      "top": 0.45059553,
+      "width": 0.022439241,
+      "height": 0.10054204
+    },
+    "tagType": "Regular"
+  },
+  {
+    "probability": 0.32869357,
+    "tagId": "07486077-ede3-45ac-a7e5-9c0f969aee28",
+    "tagName": "000_rt",
+    "boundingBox": {
+      "left": 0.6729045,
+      "top": 0.44929668,
+      "width": 0.019142926,
+      "height": 0.09616235
+    },
+    "tagType": "Regular"
+  }
+]
