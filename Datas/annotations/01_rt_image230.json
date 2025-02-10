@@ -1,0 +1,154 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    136.9368932038835,
+                    59.466019417475735
+                ],
+                [
+                    145.6747572815534,
+                    75.48543689320388
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    123.34466019417478,
+                    81.31067961165049
+                ],
+                [
+                    133.05339805825244,
+                    93.93203883495146
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    136.45145631067962,
+                    186.1650485436893
+                ],
+                [
+                    145.6747572815534,
+                    202.18446601941747
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    136.9368932038835,
+                    314.8058252427184
+                ],
+                [
+                    146.64563106796118,
+                    328.3980582524272
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    136.45145631067962,
+                    333.7378640776699
+                ],
+                [
+                    146.1601941747573,
+                    348.7864077669903
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    432.56796116504853,
+                    18.689320388349515
+                ],
+                [
+                    443.247572815534,
+                    35.19417475728156
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    528.1990291262135,
+                    144.41747572815535
+                ],
+                [
+                    536.9368932038835,
+                    158.49514563106794
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    488.3932038834951,
+                    268.6893203883495
+                ],
+                [
+                    497.61650485436894,
+                    281.79611650485435
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\01_rt\\01_rt_image230.png",
+    "imageData": null,
+    "imageHeight": 350,
+    "imageWidth": 803
+}

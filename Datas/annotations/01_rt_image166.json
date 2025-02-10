@@ -1,0 +1,82 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    365.1492537313433,
+                    23.320895522388057
+                ],
+                [
+                    386.79104477611946,
+                    50.1865671641791
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    875.5970149253732,
+                    523.320895522388
+                ],
+                [
+                    887.5373134328358,
+                    541.9776119402985
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    511.4179104477612,
+                    594.2164179104477
+                ],
+                [
+                    523.3582089552239,
+                    612.1268656716418
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    142.7611940298508,
+                    594.2164179104477
+                ],
+                [
+                    156.19402985074632,
+                    610.6343283582089
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\01_rt\\01_rt_image166.png",
+    "imageData": null,
+    "imageHeight": 675,
+    "imageWidth": 1090
+}

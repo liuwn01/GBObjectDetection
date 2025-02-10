@@ -1,0 +1,118 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "101_U1",
+      "points": [
+        [
+          283.0344827586207,
+          225.8448275862069
+        ],
+        [
+          307.0,
+          248.09523809523807
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "102_U2",
+      "points": [
+        [
+          355.44827586206895,
+          225.8448275862069
+        ],
+        [
+          378.42857142857144,
+          249.04761904761904
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "103_U3",
+      "points": [
+        [
+          425.2758620689656,
+          227.56896551724137
+        ],
+        [
+          449.85714285714283,
+          248.09523809523807
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "101_U1",
+      "points": [
+        [
+          397.68965517241384,
+          498.2586206896552
+        ],
+        [
+          420.3333333333333,
+          521.9047619047619
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "102_U2",
+      "points": [
+        [
+          467.51724137931035,
+          497.3965517241379
+        ],
+        [
+          491.76190476190476,
+          520.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "103_U3",
+      "points": [
+        [
+          539.0689655172414,
+          498.2586206896552
+        ],
+        [
+          563.1904761904761,
+          520.952380952381
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\01_rt\\01_rt_image135.png",
+  "imageData": null,
+  "imageHeight": 781,
+  "imageWidth": 654
+}

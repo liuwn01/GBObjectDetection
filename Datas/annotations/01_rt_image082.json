@@ -1,0 +1,28 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "000_rt",
+            "points": [
+                [
+                    232.49243856332703,
+                    31.63327032136106
+                ],
+                [
+                    241.1880907372401,
+                    43.54253308128545
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\01_rt\\01_rt_image082.png",
+    "imageData": null,
+    "imageHeight": 92,
+    "imageWidth": 313
+}
