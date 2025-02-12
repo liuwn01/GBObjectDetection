@@ -1,0 +1,46 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          148.55681818181822,
+          132.36363636363635
+        ],
+        [
+          167.30681818181822,
+          150.54545454545453
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          156.51136363636365,
+          155.09090909090907
+        ],
+        [
+          176.3977272727273,
+          177.24999999999997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\02_rt_qm\\02_rt_qm_2130028PUAOneDrive.png",
+  "imageData": null,
+  "imageHeight": 317,
+  "imageWidth": 817
+}

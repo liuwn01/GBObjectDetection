@@ -487,6 +487,78 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
+    },
+    {
+      "label": "104_YI",
+      "points": [
+        [
+          343.4504792332269,
+          284.961661341853
+        ],
+        [
+          357.82747603833866,
+          304.4504792332268
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "106_DA",
+      "points": [
+        [
+          373.482428115016,
+          284.6421725239617
+        ],
+        [
+          388.49840255591056,
+          304.1309904153355
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "105_TIAN",
+      "points": [
+        [
+          351.75718849840257,
+          340.55271565495207
+        ],
+        [
+          364.21725239616615,
+          359.0830670926518
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "107_DANG",
+      "points": [
+        [
+          380.5111821086262,
+          341.8306709265176
+        ],
+        [
+          394.56869009584665,
+          360.04153354632587
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\images\\01_rt\\01_rt_image193.png",

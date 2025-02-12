@@ -8,6 +8,8 @@ Download from [here](https://objects.githubusercontent.com/github-production-rel
 cd /path/to/this/repo
 cd Datas
 labelme images --labels label.txt --nodata --autosave --output annotations
+dir /b
+
 
 ```
 ###Datas

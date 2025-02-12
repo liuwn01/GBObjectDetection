@@ -1,0 +1,46 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          339.9982332155477,
+          143.03886925795052
+        ],
+        [
+          362.2597173144876,
+          164.9469964664311
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          352.36572438162545,
+          193.92226148409893
+        ],
+        [
+          372.1537102473498,
+          214.41696113074204
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\02_rt_qm\\02_rt_qm_image390.png",
+  "imageData": null,
+  "imageHeight": 320,
+  "imageWidth": 433
+}

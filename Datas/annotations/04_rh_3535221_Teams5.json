@@ -1,0 +1,82 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          310.8643410852713,
+          120.58527131782945
+        ],
+        [
+          321.32945736434107,
+          133.37596899224803
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          208.15116279069767,
+          87.63953488372094
+        ],
+        [
+          218.22868217054264,
+          105.0813953488372
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          381.01937984496124,
+          120.58527131782945
+        ],
+        [
+          394.97286821705427,
+          135.31395348837208
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          284.12015503875966,
+          120.58527131782945
+        ],
+        [
+          296.5232558139535,
+          136.8643410852713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\04_rh\\04_rh_3535221_Teams5.png",
+  "imageData": null,
+  "imageHeight": 159,
+  "imageWidth": 557
+}

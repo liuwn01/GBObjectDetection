@@ -1,0 +1,118 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          1073.076923076923,
+          564.4615384615386
+        ],
+        [
+          1087.6923076923076,
+          585.2307692307693
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          1184.6153846153845,
+          592.923076923077
+        ],
+        [
+          1199.2307692307693,
+          615.2307692307693
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          1184.6153846153845,
+          622.1538461538462
+        ],
+        [
+          1200.7692307692307,
+          646.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          1299.2307692307693,
+          591.3846153846155
+        ],
+        [
+          1320.0,
+          618.3076923076924
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          1300.7692307692307,
+          621.3846153846155
+        ],
+        [
+          1321.5384615384614,
+          652.1538461538462
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          186.15384615384616,
+          1140.6153846153845
+        ],
+        [
+          200.76923076923077,
+          1163.6923076923076
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\04_rh\\04_rh_8784613_Project_Server2.png",
+  "imageData": null,
+  "imageHeight": 1252,
+  "imageWidth": 1421
+}

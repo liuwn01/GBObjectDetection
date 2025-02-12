@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "004_6rec",
+      "points": [
+        [
+          310.12773722627736,
+          64.45255474452554
+        ],
+        [
+          327.6459854014598,
+          87.0802919708029
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\05_6rec\\05_6rec_8870857_Word_Mac_PUA2.png",
+  "imageData": null,
+  "imageHeight": 180,
+  "imageWidth": 525
+}

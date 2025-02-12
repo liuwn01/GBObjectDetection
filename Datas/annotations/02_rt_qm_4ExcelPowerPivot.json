@@ -1,0 +1,118 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          45.46846846846849,
+          231.96846846846847
+        ],
+        [
+          54.027027027027046,
+          243.22972972972974
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          53.80180180180182,
+          231.96846846846847
+        ],
+        [
+          63.486486486486505,
+          244.5810810810811
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          254.7027027027027,
+          253.81531531531533
+        ],
+        [
+          263.93693693693695,
+          265.97747747747746
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          411.6846846846847,
+          231.74324324324326
+        ],
+        [
+          419.7927927927928,
+          243.68018018018017
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          420.4684684684685,
+          231.06756756756758
+        ],
+        [
+          428.5765765765766,
+          244.8063063063063
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          620.6936936936937,
+          253.5900900900901
+        ],
+        [
+          630.1531531531532,
+          265.97747747747746
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\02_rt_qm\\02_rt_qm_4ExcelPowerPivot.png",
+  "imageData": null,
+  "imageHeight": 527,
+  "imageWidth": 854
+}

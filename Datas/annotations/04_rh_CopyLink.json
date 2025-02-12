@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          184.85430463576157,
+          28.35761589403974
+        ],
+        [
+          203.72847682119203,
+          53.52317880794702
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\04_rh\\04_rh_CopyLink.png",
+  "imageData": null,
+  "imageHeight": 164,
+  "imageWidth": 476
+}

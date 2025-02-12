@@ -1,0 +1,4 @@
+labelme images --labels label.txt --nodata --autosave --output annotations
+
+
+for %f in (annotations\*.json) do echo annotations/%~nxf >> train_anno_list.txt

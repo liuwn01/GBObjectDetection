@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          166.86160714285714,
+          26.874999999999986
+        ],
+        [
+          179.13839285714286,
+          45.624999999999986
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\02_rt_qm\\02_rt_qm_image349.png",
+  "imageData": null,
+  "imageHeight": 60,
+  "imageWidth": 321
+}

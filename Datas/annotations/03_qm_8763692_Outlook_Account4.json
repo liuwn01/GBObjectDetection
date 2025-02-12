@@ -1,0 +1,190 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          163.94827586206893,
+          179.6551724137931
+        ],
+        [
+          170.3275862068965,
+          191.55172413793105
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          170.15517241379308,
+          179.48275862068965
+        ],
+        [
+          176.53448275862067,
+          191.72413793103448
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          176.53448275862067,
+          179.6551724137931
+        ],
+        [
+          182.22413793103445,
+          191.72413793103448
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          182.7413793103448,
+          179.48275862068965
+        ],
+        [
+          188.25862068965515,
+          192.41379310344828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          188.60344827586204,
+          179.82758620689657
+        ],
+        [
+          194.46551724137927,
+          192.0689655172414
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          194.63793103448273,
+          179.82758620689657
+        ],
+        [
+          200.49999999999997,
+          192.93103448275863
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          200.15517241379308,
+          179.82758620689657
+        ],
+        [
+          206.18965517241378,
+          192.24137931034483
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          206.01724137931032,
+          179.6551724137931
+        ],
+        [
+          211.3620689655172,
+          192.24137931034483
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          224.98275862068962,
+          179.6551724137931
+        ],
+        [
+          230.49999999999997,
+          191.89655172413794
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "002_qm",
+      "points": [
+        [
+          230.49999999999997,
+          179.82758620689657
+        ],
+        [
+          236.3620689655172,
+          192.41379310344828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\03_qm\\03_qm_8763692_Outlook_Account4.png",
+  "imageData": null,
+  "imageHeight": 605,
+  "imageWidth": 686
+}

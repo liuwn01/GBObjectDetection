@@ -1,0 +1,46 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          171.86026200873363,
+          155.75327510917032
+        ],
+        [
+          184.5240174672489,
+          174.53056768558952
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          185.39737991266378,
+          155.75327510917032
+        ],
+        [
+          197.6244541484716,
+          174.96724890829697
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\04_rh\\04_rh_260910_Bookings2.png",
+  "imageData": null,
+  "imageHeight": 315,
+  "imageWidth": 628
+}

@@ -1,0 +1,46 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          179.10089686098655,
+          76.54260089686099
+        ],
+        [
+          188.29372197309416,
+          88.87443946188341
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          149.28026905829597,
+          76.54260089686099
+        ],
+        [
+          156.23094170403587,
+          86.6322869955157
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\04_rh\\04_rh_8791688_SharePoint_Server_Share.png",
+  "imageData": null,
+  "imageHeight": 106,
+  "imageWidth": 323
+}

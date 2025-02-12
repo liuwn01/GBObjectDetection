@@ -1,0 +1,82 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          124.27744807121661,
+          98.81305637982196
+        ],
+        [
+          135.85014836795253,
+          117.50741839762611
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          131.6958456973294,
+          129.67359050445103
+        ],
+        [
+          143.8620178041543,
+          148.07121661721067
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          175.3160237388724,
+          159.94065281899108
+        ],
+        [
+          187.1854599406528,
+          179.52522255192878
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "007_rt_x",
+      "points": [
+        [
+          128.13501483679525,
+          8.6053412462908
+        ],
+        [
+          137.33382789317508,
+          28.189910979228486
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\02_rt_qm\\02_rt_qm_image377.png",
+  "imageData": null,
+  "imageHeight": 638,
+  "imageWidth": 299
+}

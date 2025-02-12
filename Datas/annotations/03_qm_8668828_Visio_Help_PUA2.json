@@ -1,0 +1,136 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          245.6590909090909,
+          59.86363636363637
+        ],
+        [
+          254.29545454545456,
+          71.45454545454547
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          254.0681818181818,
+          58.72727272727273
+        ],
+        [
+          262.4772727272727,
+          71.9090909090909
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          263.3863636363636,
+          59.409090909090914
+        ],
+        [
+          271.7954545454545,
+          71.22727272727272
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          272.4772727272727,
+          59.18181818181818
+        ],
+        [
+          280.6590909090909,
+          71.45454545454547
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          281.5681818181818,
+          59.18181818181818
+        ],
+        [
+          288.84090909090907,
+          71.9090909090909
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "102_U2",
+      "points": [
+        [
+          229.75,
+          58.95454545454546
+        ],
+        [
+          245.6590909090909,
+          71.45454545454547
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "101_U1",
+      "points": [
+        [
+          148.15909090909093,
+          58.27272727272727
+        ],
+        [
+          163.15909090909093,
+          71.45454545454547
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\03_qm\\03_qm_8668828_Visio_Help_PUA2.png",
+  "imageData": null,
+  "imageHeight": 147,
+  "imageWidth": 327
+}

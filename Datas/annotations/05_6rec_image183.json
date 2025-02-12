@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "004_6rec",
+      "points": [
+        [
+          198.09722222222223,
+          38.50925925925926
+        ],
+        [
+          218.46759259259258,
+          67.67592592592592
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\05_6rec\\05_6rec_image183.png",
+  "imageData": null,
+  "imageHeight": 96,
+  "imageWidth": 333
+}

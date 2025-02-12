@@ -1,0 +1,100 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          222.46316758747696,
+          71.25966850828729
+        ],
+        [
+          233.51289134438304,
+          86.54511970534071
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          222.64732965009208,
+          89.67587476979743
+        ],
+        [
+          234.06537753222835,
+          104.96132596685084
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          133.14456721915283,
+          55.42173112338858
+        ],
+        [
+          141.2476979742173,
+          67.20810313075506
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          152.29742173112336,
+          73.83793738489871
+        ],
+        [
+          160.76887661141802,
+          84.8876611418048
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          152.48158379373848,
+          91.33333333333334
+        ],
+        [
+          161.13720073664823,
+          102.56721915285452
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\04_rh\\04_rh_8784613_Project_Server.png",
+  "imageData": null,
+  "imageHeight": 116,
+  "imageWidth": 265
+}

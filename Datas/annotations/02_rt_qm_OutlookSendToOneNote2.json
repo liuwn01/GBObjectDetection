@@ -1,0 +1,82 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          207.8888888888889,
+          34.37878787878788
+        ],
+        [
+          216.22222222222223,
+          47.0050505050505
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          133.14141414141415,
+          33.62121212121212
+        ],
+        [
+          142.23232323232324,
+          46.75252525252525
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          173.04040404040407,
+          65.6919191919192
+        ],
+        [
+          180.11111111111114,
+          76.29797979797979
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          173.54545454545456,
+          91.95454545454544
+        ],
+        [
+          180.36363636363637,
+          102.3080808080808
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\02_rt_qm\\02_rt_qm_OutlookSendToOneNote2.png",
+  "imageData": null,
+  "imageHeight": 143,
+  "imageWidth": 363
+}

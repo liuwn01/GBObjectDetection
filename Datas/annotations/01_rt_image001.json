@@ -379,6 +379,114 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
+    },
+    {
+      "label": "104_YI",
+      "points": [
+        [
+          186.44818652849742,
+          103.9300518134715
+        ],
+        [
+          198.88341968911922,
+          119.9922279792746
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "106_DA",
+      "points": [
+        [
+          209.24611398963734,
+          103.41191709844558
+        ],
+        [
+          223.75388601036272,
+          121.54663212435233
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "104_YI",
+      "points": [
+        [
+          185.93005181347152,
+          229.31865284974091
+        ],
+        [
+          198.36528497409327,
+          244.34455958549222
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "106_DA",
+      "points": [
+        [
+          209.76424870466323,
+          229.31865284974091
+        ],
+        [
+          223.75388601036272,
+          245.38082901554404
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "104_YI",
+      "points": [
+        [
+          207.6917098445596,
+          347.45336787564764
+        ],
+        [
+          220.1269430051814,
+          362.479274611399
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "104_YI",
+      "points": [
+        [
+          229.97150259067362,
+          346.93523316062175
+        ],
+        [
+          244.479274611399,
+          365.0699481865285
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\images\\01_rt\\01_rt_image001.png",

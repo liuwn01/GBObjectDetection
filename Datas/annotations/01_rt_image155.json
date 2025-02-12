@@ -325,6 +325,42 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
+    },
+    {
+      "label": "004_6rec",
+      "points": [
+        [
+          135.21341463414632,
+          14.634146341463413
+        ],
+        [
+          151.21951219512195,
+          35.36585365853658
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "004_6rec",
+      "points": [
+        [
+          139.17682926829266,
+          60.21341463414634
+        ],
+        [
+          151.0670731707317,
+          76.52439024390243
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\images\\01_rt\\01_rt_image155.png",

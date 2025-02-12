@@ -1,0 +1,64 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          438.77450980392155,
+          76.45098039215686
+        ],
+        [
+          448.9705882352941,
+          89.39215686274511
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          294.4607843137255,
+          151.35294117647058
+        ],
+        [
+          303.48039215686276,
+          164.2941176470588
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          303.0882352941177,
+          151.35294117647058
+        ],
+        [
+          312.5,
+          164.68627450980392
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\02_rt_qm\\02_rt_qm_7ExcelPowerPivot.png",
+  "imageData": null,
+  "imageHeight": 258,
+  "imageWidth": 565
+}

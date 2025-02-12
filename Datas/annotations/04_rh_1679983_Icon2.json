@@ -1,0 +1,208 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          200.31222707423584,
+          119.77074235807862
+        ],
+        [
+          211.2292576419214,
+          138.1113537117904
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "104_YI",
+      "points": [
+        [
+          313.41266375545854,
+          118.02401746724892
+        ],
+        [
+          330.00655021834064,
+          136.80131004366814
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "106_DA",
+      "points": [
+        [
+          261.88427947598257,
+          117.15065502183407
+        ],
+        [
+          279.7882096069869,
+          138.98471615720524
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          192.4519650655022,
+          227.63100436681225
+        ],
+        [
+          203.8056768558952,
+          245.5349344978166
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          192.88864628820963,
+          284.3995633187773
+        ],
+        [
+          204.24235807860262,
+          300.9934497816594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          193.32532751091705,
+          338.5480349344979
+        ],
+        [
+          203.8056768558952,
+          355.5786026200874
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          31.316593886462897,
+          175.2292576419214
+        ],
+        [
+          42.67030567685592,
+          187.8930131004367
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          27.386462882096083,
+          121.95414847161574
+        ],
+        [
+          36.12008733624455,
+          133.30786026200875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          22.582969432314428,
+          218.89737991266375
+        ],
+        [
+          40.050218340611366,
+          236.80131004366814
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          22.582969432314428,
+          275.22925764192144
+        ],
+        [
+          40.050218340611366,
+          290.51310043668127
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "003_rh",
+      "points": [
+        [
+          21.709606986899587,
+          328.9410480349345
+        ],
+        [
+          41.36026200873363,
+          346.4082969432315
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\04_rh\\04_rh_1679983_Icon2.png",
+  "imageData": null,
+  "imageHeight": 395,
+  "imageWidth": 367
+}

@@ -1,0 +1,118 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          262.83031674208144,
+          88.74660633484163
+        ],
+        [
+          288.6221719457013,
+          117.25339366515837
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "001_rt_qm",
+      "points": [
+        [
+          291.3371040723982,
+          86.0316742081448
+        ],
+        [
+          318.93891402714934,
+          118.15837104072398
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          183.1923076923077,
+          241.68778280542986
+        ],
+        [
+          193.59954751131224,
+          253.4524886877828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          184.09728506787332,
+          257.524886877828
+        ],
+        [
+          193.59954751131224,
+          271.0995475113122
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          183.64479638009053,
+          275.17194570135746
+        ],
+        [
+          192.69457013574663,
+          287.3891402714932
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "000_rt",
+      "points": [
+        [
+          184.54977375565613,
+          291.00904977375563
+        ],
+        [
+          193.57619325645896,
+          305.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\02_rt_qm\\02_rt_qm_PUA8.png",
+  "imageData": null,
+  "imageHeight": 306,
+  "imageWidth": 651
+}
