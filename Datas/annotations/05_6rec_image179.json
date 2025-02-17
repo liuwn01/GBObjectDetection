@@ -1,172 +1,172 @@
 {
-  "version": "5.5.0",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "U1_Tag2",
-      "points": [
-        [
-          366.0,
-          191.0
-        ],
-        [
-          435.0,
-          209.5
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U2_Tag2",
-      "points": [
-        [
-          435.5,
-          191.0
-        ],
-        [
-          504.0,
-          211.0
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U3_Tag1",
-      "points": [
-        [
-          505.5,
-          190.0
-        ],
-        [
-          571.5,
-          210.0
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U1_Tag2",
-      "points": [
-        [
-          281.5,
-          298.0
-        ],
-        [
-          342.5,
-          317.5
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U2_Tag2",
-      "points": [
-        [
-          343.0,
-          295.0
-        ],
-        [
-          405.5,
-          316.0
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U3_Tag1",
-      "points": [
-        [
-          406.0,
-          297.0
-        ],
-        [
-          466.0,
-          318.5
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U1_Tag2",
-      "points": [
-        [
-          291.0,
-          405.5
-        ],
-        [
-          356.0,
-          424.5
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U2_Tag2",
-      "points": [
-        [
-          356.0,
-          405.5
-        ],
-        [
-          421.0,
-          426.0
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U3_Tag1",
-      "points": [
-        [
-          421.5,
-          404.0
-        ],
-        [
-          483.5,
-          427.0
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    }
-  ],
-  "imagePath": "..\\images\\05_6rec_image179.png",
-  "imageData": null,
-  "imageHeight": 553,
-  "imageWidth": 1164
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "U1_Tag1",
+            "points": [
+                [
+                    366.0,
+                    191.0
+                ],
+                [
+                    435.0,
+                    209.5
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_Tag1",
+            "points": [
+                [
+                    435.5,
+                    191.0
+                ],
+                [
+                    504.0,
+                    211.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_Tag1",
+            "points": [
+                [
+                    505.5,
+                    190.0
+                ],
+                [
+                    571.5,
+                    210.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U1_Tag1",
+            "points": [
+                [
+                    281.5,
+                    298.0
+                ],
+                [
+                    342.5,
+                    317.5
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_Tag1",
+            "points": [
+                [
+                    343.0,
+                    295.0
+                ],
+                [
+                    405.5,
+                    316.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_Tag1",
+            "points": [
+                [
+                    406.0,
+                    297.0
+                ],
+                [
+                    466.0,
+                    318.5
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U1_Tag1",
+            "points": [
+                [
+                    291.0,
+                    405.5
+                ],
+                [
+                    356.0,
+                    424.5
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_Tag1",
+            "points": [
+                [
+                    356.0,
+                    405.5
+                ],
+                [
+                    421.0,
+                    426.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_Tag1",
+            "points": [
+                [
+                    421.5,
+                    404.0
+                ],
+                [
+                    483.5,
+                    427.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\05_6rec_image179.png",
+    "imageData": null,
+    "imageHeight": 553,
+    "imageWidth": 1164
 }

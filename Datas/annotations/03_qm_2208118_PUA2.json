@@ -1,64 +1,64 @@
 {
-  "version": "5.5.0",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "U1_Tag2",
-      "points": [
-        [
-          356.8494423791821,
-          212.26208178438662
-        ],
-        [
-          415.771375464684,
-          228.06133828996283
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U2_Tag2",
-      "points": [
-        [
-          417.4442379182156,
-          212.26208178438662
-        ],
-        [
-          477.2955390334572,
-          228.43308550185873
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U3_Tag1",
-      "points": [
-        [
-          478.7825278810409,
-          211.5185873605948
-        ],
-        [
-          539.9349442379182,
-          228.43308550185873
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    }
-  ],
-  "imagePath": "..\\images\\03_qm_2208118_PUA2.png",
-  "imageData": null,
-  "imageHeight": 713,
-  "imageWidth": 1115
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "U1_Tag1",
+            "points": [
+                [
+                    356.8494423791821,
+                    212.26208178438662
+                ],
+                [
+                    415.771375464684,
+                    228.06133828996283
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_Tag1",
+            "points": [
+                [
+                    417.4442379182156,
+                    212.26208178438662
+                ],
+                [
+                    477.2955390334572,
+                    228.43308550185873
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_Tag1",
+            "points": [
+                [
+                    478.7825278810409,
+                    211.5185873605948
+                ],
+                [
+                    539.9349442379182,
+                    228.43308550185873
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\03_qm_2208118_PUA2.png",
+    "imageData": null,
+    "imageHeight": 713,
+    "imageWidth": 1115
 }

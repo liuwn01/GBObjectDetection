@@ -1,64 +1,64 @@
 {
-  "version": "5.5.0",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "U1_Tag2",
-      "points": [
-        [
-          68.51342281879194,
-          86.49328859060401
-        ],
-        [
-          124.21812080536913,
-          101.25838926174495
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U2_Tag2",
-      "points": [
-        [
-          124.21812080536913,
-          86.49328859060401
-        ],
-        [
-          180.9295302013423,
-          100.9228187919463
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U3_Tag1",
-      "points": [
-        [
-          180.9295302013423,
-          86.15771812080536
-        ],
-        [
-          233.9496644295302,
-          100.9228187919463
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    }
-  ],
-  "imagePath": "..\\images\\05_6rec_1790466_PUA.png",
-  "imageData": null,
-  "imageHeight": 175,
-  "imageWidth": 483
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "U1_Tag1",
+            "points": [
+                [
+                    68.51342281879194,
+                    86.49328859060401
+                ],
+                [
+                    124.21812080536913,
+                    101.25838926174495
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_Tag1",
+            "points": [
+                [
+                    124.21812080536913,
+                    86.49328859060401
+                ],
+                [
+                    180.9295302013423,
+                    100.9228187919463
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_Tag1",
+            "points": [
+                [
+                    180.9295302013423,
+                    86.15771812080536
+                ],
+                [
+                    233.9496644295302,
+                    100.9228187919463
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\05_6rec_1790466_PUA.png",
+    "imageData": null,
+    "imageHeight": 175,
+    "imageWidth": 483
 }

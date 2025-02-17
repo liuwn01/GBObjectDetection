@@ -1,64 +1,64 @@
 {
-  "version": "5.5.0",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "U1_Tag2",
-      "points": [
-        [
-          203.05172413793102,
-          30.65517241379311
-        ],
-        [
-          450.63793103448273,
-          85.82758620689654
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U2_Tag2",
-      "points": [
-        [
-          454.7758620689655,
-          31.34482758620689
-        ],
-        [
-          709.9482758620691,
-          85.82758620689654
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "U3_Tag1",
-      "points": [
-        [
-          724.4310344827587,
-          32.72413793103448
-        ],
-        [
-          976.844827586207,
-          85.13793103448276
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    }
-  ],
-  "imagePath": "..\\images\\others_3559762_PUA2.png",
-  "imageData": null,
-  "imageHeight": 242,
-  "imageWidth": 993
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "U1_Tag1",
+            "points": [
+                [
+                    203.05172413793102,
+                    30.65517241379311
+                ],
+                [
+                    450.63793103448273,
+                    85.82758620689654
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_Tag1",
+            "points": [
+                [
+                    454.7758620689655,
+                    31.34482758620689
+                ],
+                [
+                    709.9482758620691,
+                    85.82758620689654
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_Tag1",
+            "points": [
+                [
+                    724.4310344827587,
+                    32.72413793103448
+                ],
+                [
+                    976.844827586207,
+                    85.13793103448276
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\others_3559762_PUA2.png",
+    "imageData": null,
+    "imageHeight": 242,
+    "imageWidth": 993
 }
