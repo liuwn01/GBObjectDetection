@@ -2,3 +2,8 @@ labelme images --labels label.txt --nodata --autosave --output annotations
 
 
 for %f in (annotations\*.json) do echo annotations/%~nxf >> train_anno_list.txt
+
+
+git lfs track "*.mp4" //Specify file types to track.
+git add . //Add all changes
+git commit -m "comments"

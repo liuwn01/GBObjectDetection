@@ -1,0 +1,100 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "U1_Tag2",
+      "points": [
+        [
+          215.698224852071,
+          246.10650887573962
+        ],
+        [
+          281.3786982248521,
+          263.26627218934914
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "U2_Tag2",
+      "points": [
+        [
+          281.9704142011834,
+          245.51479289940826
+        ],
+        [
+          345.28402366863907,
+          265.0414201183432
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "U3_Tag1",
+      "points": [
+        [
+          347.0591715976331,
+          244.9230769230769
+        ],
+        [
+          409.7810650887574,
+          265.0414201183432
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "U1_Tag1",
+      "points": [
+        [
+          97.94674556213016,
+          267.40828402366867
+        ],
+        [
+          178.42011834319527,
+          286.93491124260356
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "U2_Tag1",
+      "points": [
+        [
+          178.42011834319527,
+          266.2248520710059
+        ],
+        [
+          257.1183431952663,
+          286.3431952662722
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\others_1780432_PUA_OneDrive2.png",
+  "imageData": null,
+  "imageHeight": 536,
+  "imageWidth": 574
+}

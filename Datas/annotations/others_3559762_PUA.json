@@ -1,0 +1,64 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "U1_Tag1",
+      "points": [
+        [
+          30.31578947368426,
+          24.245614035087726
+        ],
+        [
+          399.6140350877193,
+          92.66666666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "U2_Tag1",
+      "points": [
+        [
+          410.140350877193,
+          21.614035087719287
+        ],
+        [
+          806.6315789473683,
+          91.78947368421052
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "U3_Tag1",
+      "points": [
+        [
+          1004.8771929824561,
+          31.26315789473682
+        ],
+        [
+          1241.719298245614,
+          85.64912280701753
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\others_3559762_PUA.png",
+  "imageData": null,
+  "imageHeight": 252,
+  "imageWidth": 1258
+}
