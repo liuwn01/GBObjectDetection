@@ -1,0 +1,16 @@
+{
+    "input_path": "D:\\09.Work\\65.Interop\\04.task\\30.GBTasks\\codes\\github\\GBObjectDetection/Datas/Testing\\check06.jpg",
+    "boxes": [
+        {
+            "cls_id": 0,
+            "label": "U1_Tag1",
+            "score": 0.8202773928642273,
+            "coordinate": [
+                495.2533264160156,
+                229.85768127441406,
+                584.6328125,
+                259.7812805175781
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "input_path": "D:\\09.Work\\65.Interop\\04.task\\30.GBTasks\\codes\\github\\GBObjectDetection/Datas/Testing\\others_1810304_PUA.png",
+    "boxes": [
+        {
+            "cls_id": 0,
+            "label": "U1",
+            "score": 0.9986910223960876,
+            "coordinate": [
+                117.15812683105469,
+                136.32937622070312,
+                188.5204315185547,
+                151.89869689941406
+            ]
+        }
+    ]
+}

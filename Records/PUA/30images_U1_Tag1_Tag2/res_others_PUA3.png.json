@@ -1,0 +1,27 @@
+{
+    "input_path": "D:\\09.Work\\65.Interop\\04.task\\30.GBTasks\\codes\\github\\GBObjectDetection/Datas/Testing\\others_PUA3.png",
+    "boxes": [
+        {
+            "cls_id": 1,
+            "label": "U1_Tag2",
+            "score": 0.9576860666275024,
+            "coordinate": [
+                533.6844482421875,
+                166.6161651611328,
+                592.06005859375,
+                179.06480407714844
+            ]
+        },
+        {
+            "cls_id": 1,
+            "label": "U1_Tag2",
+            "score": 0.9894890189170837,
+            "coordinate": [
+                497.5667724609375,
+                291.3300476074219,
+                574.9595336914062,
+                310.9695129394531
+            ]
+        }
+    ]
+}

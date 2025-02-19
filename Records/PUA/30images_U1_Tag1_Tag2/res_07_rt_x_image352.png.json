@@ -1,0 +1,16 @@
+{
+    "input_path": "D:\\09.Work\\65.Interop\\04.task\\30.GBTasks\\codes\\github\\GBObjectDetection/Datas/Testing\\07_rt_x_image352.png",
+    "boxes": [
+        {
+            "cls_id": 1,
+            "label": "U1_Tag2",
+            "score": 0.9978145360946655,
+            "coordinate": [
+                37.8508415222168,
+                1190.8333740234375,
+                132.60850524902344,
+                1216.6983642578125
+            ]
+        }
+    ]
+}

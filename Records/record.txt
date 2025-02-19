@@ -1,0 +1,35 @@
+1. Model Tags: U1_Tag1, U2_Tag1, U3_Tag1
+	Directory: <repo>\Records\PUA\30images_U1_U2_U3_3labels
+	Anomalies:
+		check06.jpg: U1_Tag1 label error
+		check07.jpg: U1_Tag1 label error
+		others_1780432_PUA_OneDrive2.png: U2_Tag1 label error
+		others_PUA3.png: U3_Tag1 label error
+
+2. Model Tags: U3_Tag1
+	Directory: <repo>\Records\PUA\30images_U3Tag1
+	Anomalies:
+		01_rt_x_image352.png: U3_Tag1 label error
+3. Model Tags: U1 ( = U1_Tag1 + U1_Tag2)
+	Directory: <repo>\Records\PUA\30images_U1
+	Anomalies:
+		check06.jpg: U1_Tag1 label error
+		check07.jpg: U1_Tag1 label error
+		others_PUA3.png: U1_Tag1 label error
+		
+4. Model Tags: U1_Tag1, U1_Tag2
+	Directory: <repo>\Records\PUA\30images_U1_Tag1_Tag2
+	Anomalies:
+		others_1780432_PUA_OneDrive2.png: U1_Tag2 label error
+		
+5. Model Tags: U2 ( = U2_Tag1 + U2_Tag2)
+	Directory: <repo>\Records\PUA\30images_U2
+	Anomalies:
+		07_rt_x_image355.png: U2 label error
+		others_PUA3.png: U2 tag missing
+
+6. Model Tags: U2_Tag1, U2_Tag2
+	Directory: <repo>\Records\PUA\30images_U2_Tag1_Tag2
+	Anomalies:
+		others_1780432_PUA_OneDrive2.png: U2_Tag2 tag missing
+		others_PUA3.png: U2_Tag2 tag missing
