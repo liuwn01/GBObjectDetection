@@ -1,0 +1,100 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ExtB_Tag1",
+      "points": [
+        [
+          179.15217391304338,
+          731.7173913043478
+        ],
+        [
+          256.32608695652175,
+          755.6304347826086
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ExtB_Tag1",
+      "points": [
+        [
+          180.2391304347825,
+          770.8478260869565
+        ],
+        [
+          274.8043478260869,
+          789.3260869565216
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ExtB_Tag1",
+      "points": [
+        [
+          182.41304347826087,
+          807.8043478260869
+        ],
+        [
+          257.4130434782609,
+          826.2826086956521
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ExtB_Tag1",
+      "points": [
+        [
+          181.32608695652175,
+          837.1521739130434
+        ],
+        [
+          283.5,
+          858.891304347826
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ExtB_Tag1",
+      "points": [
+        [
+          181.32608695652175,
+          869.7608695652173
+        ],
+        [
+          270.4565217391304,
+          893.6739130434781
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\ExtB\\ExtBMixed-baseline5.png",
+  "imageData": null,
+  "imageHeight": 983,
+  "imageWidth": 892
+}

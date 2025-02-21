@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ExtB_Tag1",
+      "points": [
+        [
+          123.19795221843003,
+          175.660409556314
+        ],
+        [
+          227.97610921501706,
+          214.2269624573379
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\ExtB\\ExtBFailed-baseline7.png",
+  "imageData": null,
+  "imageHeight": 309,
+  "imageWidth": 358
+}

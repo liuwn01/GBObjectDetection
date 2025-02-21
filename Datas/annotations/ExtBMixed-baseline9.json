@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ExtB_Tag1",
+      "points": [
+        [
+          453.20157068062827,
+          195.98167539267016
+        ],
+        [
+          518.6465968586388,
+          212.73560209424085
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\ExtB\\ExtBMixed-baseline9.png",
+  "imageData": null,
+  "imageHeight": 415,
+  "imageWidth": 753
+}
