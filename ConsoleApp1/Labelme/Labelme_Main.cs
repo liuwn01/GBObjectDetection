@@ -152,8 +152,20 @@ namespace ConsoleApp1.Labelme
                     {
                         Log_Error(e.ToString());
 
-                        var targetIteration = trainingApi.GetIterations(_projObj.Id).Where(s => s.Status == "Completed").OrderByDescending(s => s.Created).First();
-                        trainingApi.UnpublishIteration(_projObj.Id, targetIteration.Id);
+                        foreach (var item in trainingApi.GetIterations(_projObj.Id))
+                        {
+                            //if(item.PublishName)
+                            //var targetIteration = trainingApi.GetIterations(_projObj.Id).Where(s => s.Status == "Completed").OrderByDescending(s => s.Created).First();
+                            try
+                            {
+                                trainingApi.UnpublishIteration(_projObj.Id, item.Id);
+
+                            }
+                            catch (Exception e2)
+                            {
+                            }
+                            
+                        }
                         trainingApi.DeleteProject(_projObj.Id);
                         
                     }
@@ -175,7 +187,7 @@ namespace ConsoleApp1.Labelme
 
 
 
-            //RebuildProject(trainingApi);
+            RebuildProject(trainingApi);
             TrainProject(trainingApi);
             ////PublishIteration(trainingApi);
             TestIteration(predictionApi, trainingApi);
