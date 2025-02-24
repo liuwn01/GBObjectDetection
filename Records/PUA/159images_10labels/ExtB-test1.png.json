@@ -1,0 +1,16 @@
+{
+    "input_path": "D:\\09.Work\\65.Interop\\04.task\\30.GBTasks\\codes\\github\\GBObjectDetection/Datas/Testing\\ExtB-test1.png",
+    "boxes": [
+        {
+            "cls_id": 0,
+            "label": "ExtB_Tag1",
+            "score": 0.6580236554145813,
+            "coordinate": [
+                142.70736694335938,
+                470.8369140625,
+                289.5600891113281,
+                503.13507080078125
+            ]
+        }
+    ]
+}

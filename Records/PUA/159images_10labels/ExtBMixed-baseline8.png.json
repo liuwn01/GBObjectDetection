@@ -1,0 +1,38 @@
+{
+    "input_path": "D:\\09.Work\\65.Interop\\04.task\\30.GBTasks\\codes\\github\\GBObjectDetection/Datas/Testing\\ExtBMixed-baseline8.png",
+    "boxes": [
+        {
+            "cls_id": 0,
+            "label": "ExtB_Tag1",
+            "score": 0.998191773891449,
+            "coordinate": [
+                240.8991241455078,
+                243.26699829101562,
+                305.4643859863281,
+                257.9957580566406
+            ]
+        },
+        {
+            "cls_id": 0,
+            "label": "ExtB_Tag1",
+            "score": 0.9940863847732544,
+            "coordinate": [
+                310.3262023925781,
+                243.65554809570312,
+                377.760498046875,
+                257.9093933105469
+            ]
+        },
+        {
+            "cls_id": 0,
+            "label": "ExtB_Tag1",
+            "score": 0.5852493047714233,
+            "coordinate": [
+                256.1881408691406,
+                244.0531463623047,
+                356.4980163574219,
+                257.85833740234375
+            ]
+        }
+    ]
+}
