@@ -1,64 +1,64 @@
 {
-    "version": "5.5.0",
-    "flags": {},
-    "shapes": [
-        {
-            "label": "U1_Tag1",
-            "points": [
-                [
-                    801.7241379310345,
-                    271.7586206896552
-                ],
-                [
-                    905.7471264367816,
-                    295.3218390804598
-                ]
-            ],
-            "group_id": null,
-            "description": "",
-            "shape_type": "rectangle",
-            "flags": {},
-            "mask": null
-        },
-        {
-            "label": "U2_Tag1",
-            "points": [
-                [
-                    908.6206896551724,
-                    270.6091954022989
-                ],
-                [
-                    1018.9655172413793,
-                    296.4712643678161
-                ]
-            ],
-            "group_id": null,
-            "description": "",
-            "shape_type": "rectangle",
-            "flags": {},
-            "mask": null
-        },
-        {
-            "label": "U3_Tag1",
-            "points": [
-                [
-                    1020.6896551724138,
-                    269.45977011494256
-                ],
-                [
-                    1125.8620689655172,
-                    297.0459770114943
-                ]
-            ],
-            "group_id": null,
-            "description": "",
-            "shape_type": "rectangle",
-            "flags": {},
-            "mask": null
-        }
-    ],
-    "imagePath": "..\\images\\02_rt_qm_image457.png",
-    "imageData": null,
-    "imageHeight": 328,
-    "imageWidth": 1468
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "U1_Tag2",
+      "points": [
+        [
+          801.7241379310345,
+          271.7586206896552
+        ],
+        [
+          905.7471264367816,
+          295.3218390804598
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "U2_Tag2",
+      "points": [
+        [
+          908.6206896551724,
+          270.6091954022989
+        ],
+        [
+          1018.9655172413793,
+          296.4712643678161
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "U3_Tag1",
+      "points": [
+        [
+          1020.6896551724138,
+          269.45977011494256
+        ],
+        [
+          1125.8620689655172,
+          297.0459770114943
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\02_rt_qm_image457.png",
+  "imageData": null,
+  "imageHeight": 328,
+  "imageWidth": 1468
 }
