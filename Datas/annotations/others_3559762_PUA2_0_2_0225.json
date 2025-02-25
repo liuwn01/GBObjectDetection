@@ -1,0 +1,64 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "U1_QM2",
+            "points": [
+                [
+                    199,
+                    27
+                ],
+                [
+                    468,
+                    84
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_QM1",
+            "points": [
+                [
+                    469,
+                    27
+                ],
+                [
+                    722,
+                    84
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_QM2",
+            "points": [
+                [
+                    723,
+                    27
+                ],
+                [
+                    991,
+                    84
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\QM0225\\others_3559762_PUA2_0_2_0225.jpg",
+    "imageData": null,
+    "imageHeight": 242,
+    "imageWidth": 993
+}

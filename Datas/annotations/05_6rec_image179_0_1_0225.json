@@ -1,0 +1,172 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "U1_QM1",
+            "points": [
+                [
+                    359,
+                    192
+                ],
+                [
+                    429,
+                    206
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_QM2",
+            "points": [
+                [
+                    430,
+                    192
+                ],
+                [
+                    499,
+                    206
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_QM1",
+            "points": [
+                [
+                    500,
+                    192
+                ],
+                [
+                    569,
+                    206
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U1_QM1",
+            "points": [
+                [
+                    272,
+                    302
+                ],
+                [
+                    335,
+                    314
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_QM2",
+            "points": [
+                [
+                    336,
+                    302
+                ],
+                [
+                    398,
+                    314
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_QM1",
+            "points": [
+                [
+                    399,
+                    302
+                ],
+                [
+                    461,
+                    314
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U1_QM1",
+            "points": [
+                [
+                    291,
+                    410
+                ],
+                [
+                    354,
+                    422
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_QM2",
+            "points": [
+                [
+                    355,
+                    410
+                ],
+                [
+                    417,
+                    422
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_QM1",
+            "points": [
+                [
+                    418,
+                    410
+                ],
+                [
+                    480,
+                    422
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\QM0225\\05_6rec_image179_0_1_0225.jpg",
+    "imageData": null,
+    "imageHeight": 553,
+    "imageWidth": 1164
+}

@@ -1,0 +1,64 @@
+{
+    "version": "5.5.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "U1_QM1",
+            "points": [
+                [
+                    71,
+                    88
+                ],
+                [
+                    126,
+                    98
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U2_QM2",
+            "points": [
+                [
+                    127,
+                    88
+                ],
+                [
+                    176,
+                    98
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "U3_QM1",
+            "points": [
+                [
+                    177,
+                    88
+                ],
+                [
+                    231,
+                    98
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "..\\images\\QM0225\\05_6rec_1790466_PUA_0_1_0225.jpg",
+    "imageData": null,
+    "imageHeight": 175,
+    "imageWidth": 483
+}

@@ -1,0 +1,16 @@
+{
+    "input_path": "D:\\09.Work\\65.Interop\\04.task\\30.GBTasks\\codes\\github\\GBObjectDetection/Datas/Testing\\04_rh_255450_Bookings.png",
+    "boxes": [
+        {
+            "cls_id": 2,
+            "label": "U3_Tag1",
+            "score": 0.5460509061813354,
+            "coordinate": [
+                409.3326110839844,
+                595.7838134765625,
+                463.72259521484375,
+                609.8682861328125
+            ]
+        }
+    ]
+}
